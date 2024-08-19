@@ -1,7 +1,7 @@
 # Market-Data-NetApp
 
 Web app for display market data from a stock ticker.  
-Done using a .NET back-end with a React.js front-end.
+Created using a ASP.NET back-end with a React.js front-end.
 ##
 ## First page after opening app.  
 ![Capture1](https://github.com/Seandowling123/Market-Data-NetApp/assets/61026772/d63c0bae-0ced-40a0-8ec0-98ff0c48620b) 
